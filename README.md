@@ -3,6 +3,8 @@ Simplifying Windows on Steam Deck with a custom image that makes it feel much mo
 
 # Video Tutorial
 [A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
+#
+And if neither of those work, [then this one will](https://mega.nz/file/8uUFUTQK#I_z8_MpOg-dhXvq4wXZBu1bBcVCm4Ga-ZkGZxFnyZTA)
 
 ## Video Links if it's taken down
 ["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  ["MacriumRescueISO"](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
