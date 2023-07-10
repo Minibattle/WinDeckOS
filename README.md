@@ -1,8 +1,15 @@
-# WinDeckOS
+# WinDeckOS [Version 1.1]
 Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions.
 
 # Video Tutorial
-[A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI)
+[A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
+
+## Video Links if it's taken down
+["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  ["MacriumRescueISO"](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
+["WinDeckOS"](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)   ["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)   
+["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)   
+["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
+
 
 
 # Written Guide
@@ -35,9 +42,7 @@ The trackpad is still controlled as if the screen was horizontal so navigation c
 #
 When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
 After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
-#
 # Step Two: Preparing the drive for installation on the Deck
-#
 Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing) and the [WinDeckOS image file.](https://drive.google.com/file/d/1ptt4xTP5VhvWGbBmb5wv2b6lttBpvxt2/view?usp=sharing)
 ## Alternative Download Links
 [MacriumRescue ISO](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI) and [WinDeckOS image file](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)
@@ -83,6 +88,19 @@ Once they're all checked, click "Copy Partitions" then select "Shrink or extend 
 #
 ![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/6edfd3ad-ceab-435a-84a9-165c6bacb29c)
 #
-
+If done correctly, every box will have a green outline around it, like this;
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/d3fe805b-6fd6-4c81-b3ad-0dd5afa6d902)
+#
+Click "Next" in the bottom right and then click finish (may require you too drag the window for that option to be visible). You'll get a prompt stating that the drive will be formated, check the acknowledgement box then press continue. 
+From here, WinDeckOS will start installing and once it's finished you can restart your Steam Deck and it should boot into WinDeckOS.
+# Step Four: First Time Setup
+WinDeckOS may boot in vertical mode, if this is the case, wait for the gamepadUI too show up and once it does swipe 3 fingers down to be taken to the desktop. Click the windows button on the taskbar and head to settings. Then click on display, scroll down too display
+orientation, and change it too "Landscape". Close settings and tap the steam icon on the taskbar to open the gamepadUI again proceed with setup, and when you get too Wifi there's two ways to connect.
+### Option One: Connecting manually by typing in the network SSID
+In the gamepadUI select "Other network..." and type in your internet information. Next, select your WiFi at the top of the list and finally, sign into your steam account and you'll be done with the WinDeckOS setup and ready to go.
+### Option Two: Connecting from the desktop
+Swipe 3 fingers down to show the desktop, and in the bottom right tap the internet icon located next to the sound and batter icon. In the quick access menu that shows up, tap the arrow next to the WiFi symbol and connect to your internet using the touch screen. After doing so, tap the steam icon and you will need to restart your steam deck, or you won't be able to type on the sign in screen. Simply press the steam button, go down to power, then press "Restart System". 
+After that proceed through the setup as normal and you will be fully setup with WinDeckOS. Enjoy!
 
 
