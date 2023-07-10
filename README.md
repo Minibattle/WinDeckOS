@@ -2,7 +2,7 @@
 Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions.
 
 # Video Tutorial
-A video showcasing how to install WinDeckOS can be found here:
+[A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI)
 
 
 # Written Guide
@@ -17,7 +17,7 @@ It is recommended that the external storage device contains at least 16GB, altho
 This should work on an SD card, although I haven't tested that personally so I can't confirm anything.
 This will completely wipe your steam deck, so be sure to back up any files, such as saves, you wish too keep. Not every steam game supports cloud saves so keep that in mind before continuing.
 
-## Step One: Formatting the Deck's Drive
+# Step One: Formatting the Deck's Drive
 You can skip to step 2 if you already have windows installed, or if the drive your using is already completely wiped
 #
 ### Media Creation Tool
@@ -27,3 +27,62 @@ The installer will tell you that your device is ready and you can now safely clo
 ### Booting the external drive
 Ensure your external drive is connected to your Steam Deck and then hold down the volume down key and press the power button one time. Your deck will beep and then it should boot into the Bios. From here, select whatever external drive your using for setup and it should
 boot the windows installer in vertical mode.
+### Formatting the drive from the windows installer
+The trackpad is still controlled as if the screen was horizontal so navigation can be a bit tricky, but the touch screen does work if you'd prefer to use that. On the first screen that shows up, click on next and then install now. When asked about a product key, select 
+"I don't have a product key". It doesn't matter what version of windows you select, so just click next (Your version of windows will be the same regardless of your choice here). Accept the license agreement and then select next.
+# 
+(If you have an SD card inserted that you don't want too wipe, then you should remove it before doing this part, unless you used an SD card to create windows installation media)
+#
+When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
+After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
+#
+# Step Two: Preparing the drive for installation on the Deck
+#
+Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing) and the [WinDeckOS image file.](https://drive.google.com/file/d/1ptt4xTP5VhvWGbBmb5wv2b6lttBpvxt2/view?usp=sharing)
+## Alternative Download Links
+[MacriumRescue ISO](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI) and [WinDeckOS image file](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)
+#
+While those are downloading, download this program called [Rufus,](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe) and run it. On the auto update box, you can select "no". In the rufus UI, select the external drive your using. 
+If your drive isn't showing up, you may need to select "Show advanced hard drive properties" and check the box titled "list USB Hard Drives". Under the "Boot selection" tab, there's a select button that will let you browse for a file, 
+in this case select the [MacriumRescue ISO](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
+and the "File system" is set too "NTFS". Everything else should remain unchanged. Press "Start" and you will get a popup warning you that the drive will be formated. Press "ok" and wait for it too complete.
+#
+Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://drive.google.com/file/d/1ptt4xTP5VhvWGbBmb5wv2b6lttBpvxt2/view?usp=sharing) to the root of the external drive 
+(This may take awhile). Once it finishes, take out the drive and put it in your Steam Deck.
+# Step Three: Installing the image onto the Deck
+Ensure your external drive is connected to your Steam Deck then hold the volume down key and press the power button one time. Your Steam Deck should beep and boot into the Bios. from here select the external drive your using for this setup and it will boot the Macrium 
+Reflect ISO in vertical mode. Select "Browse for an image file..."
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/459a3c6a-5a8e-4956-abdd-01acba91e28e)
+#
+In the "Select an image file" window choose the drive labeled "Rescue"
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/654af02d-5a8d-463b-a0da-48c6988135db)
+#
+Choose the file named WinDeckOS
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/dac48fc1-6a2a-46aa-8294-882d5644d47a)
+#
+Click the first of the three new boxes on screen and a button called "Actions.." will appear
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/98225ce8-419f-4cc2-958c-33c30f87dd78)
+#
+Afther clicking "Actions..." you'll need too select "Restore this partition..."
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/ae08f404-c3a4-4d2a-a9d9-d13058fbfe69)
+#
+Click on "Select a disk to restore to..." and you'll be met with a bunch of options.
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/7ee58c03-4d47-476c-b1f1-e3654df7abb7)
+#
+Choose the drive you wish to install WinDeckOS too (it's recommended you install it to the internall SSD or things like sleep mode may not work). Next, check all 3 of the little boxes from the disk image (you may need to drag the window too make the last box visible)
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/617e321b-43a2-4310-b444-fc67cf1445c3)
+#
+Once they're all checked, click "Copy Partitions" then select "Shrink or extend to fill the target disk". If you don't get that prompt, don't worry, it's because you have a 2TB drive and the partitions already fit that.
+#
+![image](https://github.com/Minibattle/WinDeckOS/assets/67839290/6edfd3ad-ceab-435a-84a9-165c6bacb29c)
+#
+
+
+
