@@ -9,14 +9,17 @@ Some of the most noteable changes are:
 5. A whole bunch of other quality of life stuff, a full list can be found [here](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 
 # Video Tutorial
-[A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
+[A video showcasing how to install WinDeckOS can be found here:](https://vimeo.com/844086829?share=copy) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
 #
-And if neither of those work, [either this one](https://mega.nz/file/8uUFUTQK#I_z8_MpOg-dhXvq4wXZBu1bBcVCm4Ga-ZkGZxFnyZTA) or this [one will.](https://vimeo.com/844086829?share=copy)
+And if neither of those work, [this one should](https://mega.nz/file/8uUFUTQK#I_z8_MpOg-dhXvq4wXZBu1bBcVCm4Ga-ZkGZxFnyZTA)
 
-## Video Links if it's taken down
-["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  ["MacriumRescueISO"](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
-["WinDeckOS"](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)   ["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)   
-["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)   
+## Links mentioned in the video guide
+["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  ["MacriumRescueISO and WinDeckOS download"](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download)   
+["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
+### Alternative Download Links
+["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo) 
+[MacriumRescueISO Google Drive Link](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
+[WinDeckOS Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
 ["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 #
 And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download) 
@@ -55,16 +58,14 @@ The trackpad is still controlled as if the screen was horizontal so navigation c
 When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
 After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
 # Step Two: Preparing the drive for installation on the Deck
-Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing) and the [WinDeckOS image file.](https://drive.google.com/file/d/1ptt4xTP5VhvWGbBmb5wv2b6lttBpvxt2/view?usp=sharing)
-## Alternative Download Links
-[MacriumRescue ISO](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI) and [WinDeckOS image file](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)
+Make sure your external drive is connected, and start downloading the [MacriumRescue ISO and the WinDeckOS disk image](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download)
 #
 While those are downloading, download this program called [Rufus,](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe) and run it. On the auto update box, you can select "no". In the rufus UI, select the external drive your using. 
 If your drive isn't showing up, you may need to select "Show advanced hard drive properties" and check the box titled "list USB Hard Drives". Under the "Boot selection" tab, there's a select button that will let you browse for a file, 
-in this case select the [MacriumRescue ISO](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
+in this case select the [MacriumRescue ISO](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
 and the "File system" is set too "NTFS". Everything else should remain unchanged. Press "Start" and you will get a popup warning you that the drive will be formated. Press "ok" and wait for it too complete.
 #
-Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://drive.google.com/file/d/1ptt4xTP5VhvWGbBmb5wv2b6lttBpvxt2/view?usp=sharing) to the root of the external drive 
+Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download) to the root of the external drive 
 (This may take awhile). Once it finishes, take out the drive and put it in your Steam Deck.
 # Step Three: Installing the image onto the Deck
 Ensure your external drive is connected to your Steam Deck then hold the volume down key and press the power button one time. Your Steam Deck should beep and boot into the Bios. from here select the external drive your using for this setup and it will boot the Macrium 
