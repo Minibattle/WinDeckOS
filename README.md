@@ -1,5 +1,12 @@
 # WinDeckOS [Version 1.1]
-Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions.
+Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. 
+#
+Some of the most noteable changes are:
+1. All steam deck drivers come pre-installed
+2. It starts with the same UI steamOS uses, so you can keep the console like experience and still get the better compatibility windows brings. Best of both worlds.
+3. Sleep mode is fully working here
+4. The WiFi driver is greatly improved due to the usage of the [RTKiller driver](https://github.com/ryanrudolfoba/SteamDeckWindowsFixForWiFi)
+5. A whole bunch of other quality of life stuff, a full list can be found [here](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 
 # Video Tutorial
 [A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
@@ -11,6 +18,9 @@ And if neither of those work, [either this one](https://mega.nz/file/8uUFUTQK#I_
 ["WinDeckOS"](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)   ["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)   
 ["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo)   
 ["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
+#
+And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download) 
+Using mod.io as every other site is filled to the brim with download restrictions.
 
 
 
