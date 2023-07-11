@@ -9,7 +9,7 @@ Some of the most noteable changes are:
 5. A whole bunch of other quality of life stuff, a full list can be found [here](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 
 # Video Tutorial
-[A video showcasing how to install WinDeckOS can be found here:](https://vimeo.com/844086829?share=copy) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
+[A video showcasing how to install WinDeckOS can be found here:](https://youtu.be/MZkqbHMyqsI) and if that video is taken down, [then you can find it here](https://drive.google.com/file/d/1rKiU0uRroSsQrylyUChOw32mEfZ6DDlP/view?usp=sharing)
 #
 And if neither of those work, [this one should](https://mega.nz/file/8uUFUTQK#I_z8_MpOg-dhXvq4wXZBu1bBcVCm4Ga-ZkGZxFnyZTA)
 
