@@ -14,13 +14,15 @@ Some of the most noteable changes are:
 And if neither of those work, [this one should](https://mega.nz/file/8uUFUTQK#I_z8_MpOg-dhXvq4wXZBu1bBcVCm4Ga-ZkGZxFnyZTA)
 
 ## Links mentioned in the video guide
-["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  ["MacriumRescueISO and WinDeckOS download"](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download)   
-["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
+- ["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  
+- ["MacriumRescueISO and WinDeckOS download"](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download)   
+- ["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ### Alternative Download Links
-["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo) 
-[MacriumRescueISO Google Drive Link](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
-[WinDeckOS Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
-["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
+- ["MacriumRescueISO Alternate link"](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
+- ["WinDeckOS Alternate Link"](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo) 
+- [MacriumRescueISO Google Drive Link](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
+- [WinDeckOS Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
+- ["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 #
 And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://api.mod.io/v1/games/1673/mods/3157675/files/4032600/download) 
 Using mod.io as every other site is filled to the brim with download restrictions.
