@@ -24,8 +24,8 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 - [WinDeckOS Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
 - ["WinDeckOS Patch Notes"](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 #
-And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download) 
-Using mod.io as every other site is filled to the brim with download restrictions.
+And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://gofile.io/d/VDov5a) 
+Using mGofile so it may be taken down after some time.
 
 
 
