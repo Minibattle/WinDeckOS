@@ -14,9 +14,9 @@ Some of the most noteable changes are:
 And if neither of those work, [this one should](https://vimeo.com/844086829)
 
 ## Links mentioned in the video guide
-- ["Media Creation tool"](https://go.microsoft.com/fwlink/?linkid=2156295)  
-- ["MacriumRescueISO and WinDeckOS download"](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download)   
-- ["Rufus"](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
+- [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
+- [MacriumRescueISO and WinDeckOS download](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download)   
+- [Rufus](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ### Alternative Download Links
 - [MacriumRescueISO Alternate link](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
 - [WinDeckOS Alternate Link](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo) 
