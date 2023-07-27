@@ -15,7 +15,7 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 
 ## Links mentioned in the video guide
 - [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
-- [MacriumRescueISO and WinDeckOS download](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download)   
+- [MacriumRescueISO and WinDeckOS download](https://api.mod.io/v1/games/3809/mods/3202282/files/4096060/download)   
 - [Rufus](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ### Alternative Download Links
 - [MacriumRescueISO Alternate link](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
@@ -60,14 +60,14 @@ The trackpad is still controlled as if the screen was horizontal so navigation c
 When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
 After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
 # Step Two: Preparing the drive for installation on the Deck
-Make sure your external drive is connected, and start downloading the [MacriumRescue ISO and the WinDeckOS disk image](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download)
+Make sure your external drive is connected, and start downloading the [MacriumRescue ISO and the WinDeckOS disk image](https://api.mod.io/v1/games/3809/mods/3202282/files/4096060/download)
 #
 While those are downloading, download this program called [Rufus,](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe) and run it. On the auto update box, you can select "no". In the rufus UI, select the external drive your using. 
 If your drive isn't showing up, you may need to select "Show advanced hard drive properties" and check the box titled "list USB Hard Drives". Under the "Boot selection" tab, there's a select button that will let you browse for a file, 
-in this case select the [MacriumRescue ISO](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
+in this case select the [MacriumRescue ISO](https://api.mod.io/v1/games/3809/mods/3202282/files/4096060/download) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
 and the "File system" is set too "NTFS". Everything else should remain unchanged. Press "Start" and you will get a popup warning you that the drive will be formated. Press "ok" and wait for it too complete.
 #
-Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://api.mod.io/v1/games/3809/mods/3166349/files/4044959/download) to the root of the external drive 
+Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://api.mod.io/v1/games/3809/mods/3202282/files/4096060/download) to the root of the external drive 
 (This may take awhile). Once it finishes, take out the drive and put it in your Steam Deck.
 # Step Three: Installing the image onto the Deck
 Ensure your external drive is connected to your Steam Deck then hold the volume down key and press the power button one time. Your Steam Deck should beep and boot into the Bios. from here select the external drive your using for this setup and it will boot the Macrium 
