@@ -1,5 +1,7 @@
 # WinDeckOS [Version 1.1]
 Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. 
+
+# **OLED Update in Development as of 11/7/2024. Working on updating as soon as possible!**
 #
 Some of the most noteable changes are:
 1. All steam deck drivers come pre-installed
