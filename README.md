@@ -17,7 +17,7 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 
 ## Links mentioned in the video guide
 - [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
-- [MacriumRescueISO and WinDeckOS download](https://pixeldrain.com/u/pMvKgY7F)   
+- [WinDeckOS and MacriumRescueISO download](https://pixeldrain.com/u/pMvKgY7F)   
 - [Rufus](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ### Alternative Download Links
 - [MacriumRescueISO Alternate link](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
