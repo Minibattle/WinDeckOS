@@ -1,7 +1,7 @@
-# WinDeckOS [Version 1.1]
+# WinDeckOS [Version 2.0]
 Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. 
 
-# **OLED Update in Development as of 11/7/2024. Working on updating as soon as possible!**
+# **[OLED Update Available NOW!](https://youtu.be/weZFR1AQ1Zs)**
 #
 Some of the most noteable changes are:
 1. All steam deck drivers come pre-installed
@@ -17,14 +17,14 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 
 ## Links mentioned in the video guide
 - [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
-- [WinDeckOS and MacriumRescueISO download](https://pixeldrain.com/u/pMvKgY7F)   
+- [WinDeckOS 2.0](https://gofile.io/d/PSHbQR)   
 - [Rufus](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ### Alternative Download Links
 - [MacriumRescueISO Alternate link](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
-- [WinDeckOS Alternate Link](https://mega.nz/file/QqdV1Dob#wWDaDDJnLDR5BjmpLbQS3K2TXA_d2DAw9QI52yAp1bo) 
+- [WinDeckOS 2.0 Alternate Link](https://qiwi.gg/file/uMp42261-WinDeckOS2) 
 - [MacriumRescueISO Google Drive Link](https://drive.google.com/file/d/1n7WgFMYcTdNSrqaJQW_xnqlQtnmZSM-9/view?usp=sharing)   
-- [WinDeckOS Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
-- [WinDeckOS DropBox Link (Thanks PS2 Classics Vault)](https://www.dropbox.com/scl/fo/sltoq7o9tgkrlz0ffo5gx/h?rlkey=koxe0ggdztylre9h5ziyq7ab9&dl=0)
+- [WinDeckOS 1.1 Google Drive Link](https://drive.google.com/file/d/16ohIRz1HAWFYw96h0gfDETL4LuRRLhrf/view?usp=sharing)
+- [WinDeckOS 1.1 DropBox Link (Thanks PS2 Classics Vault)](https://www.dropbox.com/scl/fo/sltoq7o9tgkrlz0ffo5gx/h?rlkey=koxe0ggdztylre9h5ziyq7ab9&dl=0)
 - [WinDeckOS Patch Notes](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 #
 And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://gofile.io/d/VDov5a) 
@@ -37,10 +37,10 @@ This is a written guide explaining how to install WinDeckOS using an external Wi
 
 ## Requirements
 1. An external PC running Windows
-2. Some kind of external storage device with at least 12GB of usuable storage and a way to connect it to your Steam Deck
+2. Some kind of external storage device with at least 40GB of usuable storage and a way to connect it to your Steam Deck
 3. A Steam Deck (or maybe some other device you want to try downloading this too)
 
-It is recommended that the external storage device contains at least 16GB, although technically, as long as there is 12GB of usuable memory, this should work.
+It is recommended that the external storage device contains at least 40GB, although technically, as long as there is 32GB of usuable memory, this should work.
 This should work on an SD card, although I haven't tested that personally so I can't confirm anything.
 This will completely wipe your steam deck, so be sure to back up any files, such as saves, you wish too keep. Not every steam game supports cloud saves so keep that in mind before continuing.
 
@@ -63,14 +63,14 @@ The trackpad is still controlled as if the screen was horizontal so navigation c
 When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
 After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
 # Step Two: Preparing the drive for installation on the Deck
-Make sure your external drive is connected, and start downloading the [MacriumRescue ISO and the WinDeckOS disk image](https://pixeldrain.com/u/pMvKgY7F)
+Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://gofile.io/d/92m1IO) and the WinDeckOS disk image](https://gofile.io/d/Sk6rv7)
 #
 While those are downloading, download this program called [Rufus,](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe) and run it. On the auto update box, you can select "no". In the rufus UI, select the external drive your using. 
 If your drive isn't showing up, you may need to select "Show advanced hard drive properties" and check the box titled "list USB Hard Drives". Under the "Boot selection" tab, there's a select button that will let you browse for a file, 
 in this case select the [MacriumRescue ISO](https://pixeldrain.com/u/pMvKgY7F) we downloaded earlier, or just drag and drop the file into Rufus. Make sure the "Partition scheme" is set too GPT 
 and the "File system" is set too "NTFS". Everything else should remain unchanged. Press "Start" and you will get a popup warning you that the drive will be formated. Press "ok" and wait for it too complete.
 #
-Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://pixeldrain.com/u/pMvKgY7F) to the root of the external drive 
+Once it finishes, open the newley changed drive in file explorer (should be labled "Rescue"), and drag and drop the [WinDeckOS image file](https://gofile.io/d/PSHbQR) to the root of the external drive 
 (This may take awhile). Once it finishes, take out the drive and put it in your Steam Deck.
 # Step Three: Installing the image onto the Deck
 Ensure your external drive is connected to your Steam Deck then hold the volume down key and press the power button one time. Your Steam Deck should beep and boot into the Bios. from here select the external drive your using for this setup and it will boot the Macrium 
