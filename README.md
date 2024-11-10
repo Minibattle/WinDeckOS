@@ -7,7 +7,7 @@ Some of the most noteable changes are:
 1. All steam deck drivers come pre-installed
 2. It starts with the same UI steamOS uses, so you can keep the console like experience and still get the better compatibility windows brings. Best of both worlds.
 3. Sleep mode is fully working here
-4. The WiFi driver is greatly improved due to the usage of the [RTKiller driver](https://github.com/ryanrudolfoba/SteamDeckWindowsFixForWiFi)
+4. The WiFi driver is greatly improved due to the usage of the [RTKiller driver](https://github.com/ryanrudolfoba/SteamDeckWindowsFixForWiFi) (LCD ONLY)
 5. A whole bunch of other quality of life stuff, a full list can be found [here](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 
 # Video Tutorial
