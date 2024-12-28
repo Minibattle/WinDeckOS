@@ -15,6 +15,8 @@ Some of the most noteable changes are:
 #
 And if neither of those work, [this one should](https://vimeo.com/844086829)
 
+## Torrents
+[Torrent #1 (Central US)](magnet:?xt=urn:btih:b1ba0777a54519f6214d1157d3cdfb2aa9b73c8b&dn=WinDeckOS%202.0.rar)
 ## Links mentioned in the video guide
 - [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
 - [WinDeckOS 2.0](https://gofile.io/d/PSHbQR)   
