@@ -15,6 +15,8 @@ Some of the most noteable changes are:
 #
 And if neither of those work, [this one should](https://vimeo.com/844086829)
 
+## Torrents
+- [WinDeckOS 2.0 Torrent #1](https://github.com/christmaswreath/WinDeckOS/raw/refs/heads/main/Torrents/2.0%20Torrent%201.torrent)
 ## Links mentioned in the video guide
 - [Media Creation tool](https://go.microsoft.com/fwlink/?linkid=2156295)  
 - [WinDeckOS 2.0](https://gofile.io/d/PSHbQR)   
