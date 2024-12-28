@@ -29,7 +29,7 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 - [WinDeckOS 1.1 DropBox Link (Thanks PS2 Classics Vault)](https://www.dropbox.com/scl/fo/sltoq7o9tgkrlz0ffo5gx/h?rlkey=koxe0ggdztylre9h5ziyq7ab9&dl=0)
 - [WinDeckOS Patch Notes](https://drive.google.com/file/d/1fPM4LSM65I5WNBEaw7nCKSlL4Tl3zcg4/view?usp=drive_link)
 #
-And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the WinDeckOS image file.](https://gofile.io/d/VDov5a) 
+And [here's an alternative link that should be working for everyone that contains the MacriumRescueISO and the [WinDeckOS image file.](https://gofile.io/d/VDov5a) 
 Using Gofile so it may be taken down after some time.
 
 
