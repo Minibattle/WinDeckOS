@@ -65,7 +65,7 @@ The trackpad is still controlled as if the screen was horizontal so navigation c
 When asked whether to "Upgrade Install" or "Custom Install" ensure you select "Custom install". You will then be greeted with a screen full of drives and partitions. Manually go through and select each drive then click delete, then format the remaining ones it lets you. 
 After doing this, your steam deck will no longer boot. Once your done, you may hold down the power button on your steam deck to shut it off.
 # Step Two: Preparing the drive for installation on the Deck
-Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://gofile.io/d/92m1IO) and the WinDeckOS disk image](https://gofile.io/d/Sk6rv7)
+Make sure your external drive is connected, and start downloading the [MacriumRescue ISO](https://gofile.io/d/92m1IO) and the [WinDeckOS disk image](https://gofile.io/d/Sk6rv7)
 #
 While those are downloading, download this program called [Rufus,](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe) and run it. On the auto update box, you can select "no". In the rufus UI, select the external drive your using. 
 If your drive isn't showing up, you may need to select "Show advanced hard drive properties" and check the box titled "list USB Hard Drives". Under the "Boot selection" tab, there's a select button that will let you browse for a file, 
