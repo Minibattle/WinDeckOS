@@ -20,6 +20,8 @@ And if neither of those work, [this one should](https://vimeo.com/844086829)
 - [WinDeckOS 2.0](https://gofile.io/d/PSHbQR)   
 - [Rufus](https://github.com/pbatard/rufus/releases/download/v4.1/rufus-4.1.exe)
 ## Torrents
+> [!IMPORTANT]
+> Please let the torrent seed to a ratio of at least 1.0. It's difficult to keep the torrent alive if there's only one person seeding it, plus the main seeder's seedbox isn't very stable.
 - [WinDeckOS 2.0 Torrent #1](https://github.com/christmaswreath/WinDeckOS/raw/refs/heads/main/Torrents/2.0%20Torrent%201.torrent)
 ### Alternative Download Links
 - [MacriumRescueISO Alternate link](https://mega.nz/file/xvkxxKKI#tsEXHTpIX7ZUx9xDvh73mfA_HRsE8CI3XBWzmvGY1ZI)   
